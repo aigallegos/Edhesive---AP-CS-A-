@@ -7,6 +7,5 @@ class Lesson_5_Activity_One {
     double x = scan.nextDouble();
     double y = scan.nextDouble();
     System.out.print(x - y);
-
   }
 }
